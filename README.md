@@ -2,4 +2,4 @@ Neste projeto, vou praticar o que aprendi até agora no curso The Odin Project. 
 
 Visualize o projeto pelo link:
 
-romulo-milani.github.io/odinrecipes
+https://romulo-milani.github.io/odinrecipes/

@@ -1,0 +1,23 @@
+body {
+    font-family: 'Gill Sans', serif;
+}
+
+.main-div {
+    background-color: rgb(150, 245, 245);
+    width: 400px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.ul-class {
+    background-color: rgb(255, 255, 164);
+    width: 400px;
+}
+
+.ol-clas {
+    background-color: rgb(197, 255, 164);
+    width: 400px;
+}
